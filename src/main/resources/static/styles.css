@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color: black;
+}
+
+body{
+    margin: auto;
+}
+
+form {
+    margin-left: 600px;
+    margin-right: 600px;
+}
+
+p {
+    color: red;
+    font-size: 12px;
+}
